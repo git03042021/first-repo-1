@@ -3,3 +3,4 @@ Developer2: 6.2
 Developer4: 6.1
 Developer5: 6.1.1 [Bug fixes]
 Developer5: 6.1.2 [Bug fixes]
+Developer2: 6.2.1 [bug fixing]
